@@ -1,0 +1,5 @@
+User ID 2470 made the first deposit of 100000 by admin
+User ID 2504 made the first deposit of 44444 by admin
+User ID 2729 made the first deposit of 44444 by admin
+user id |2470fund transfer from a| to card id1338 | amount: 10000 | Date: 2024-12-08   | Time : 00:22:53
+user id |2504has received funds from a| to his card id1044 | amount: 10000 | Date: 2024-12-08   | Time : 00:22:53

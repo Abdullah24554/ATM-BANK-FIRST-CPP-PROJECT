@@ -1,0 +1,5 @@
+invalid id choice
+invalid id choice
+invalid id choice
+PIN MISMATCHED
+no card id found
